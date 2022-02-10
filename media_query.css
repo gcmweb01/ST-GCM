@@ -1,0 +1,53 @@
+/* mobile */
+
+@media screen and (min-width: 320px) and (max-width: 480px) { 
+
+
+}
+
+/*ipads tables*/
+
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    
+
+}
+
+/*specific tablet*/
+
+@media only screen and (min-width: 768px){
+
+
+}
+
+/*small screen*/
+@media screen and (min-width: 769px) and (max-width: 1024px) { 
+
+
+}
+
+/*desktop large screen*/
+@media screen and (min-width: 1025px) and (max-width: 1200px) { 
+
+}
+
+
+/*wide screen*/
+@media screen and (min-width: 1201px) and (max-width: 1439px) { 
+    
+
+}
+
+/*wide screen*/
+@media screen and (min-width: 1440) and (max-width: 1920px) { 
+    
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    
+
+
+ 
+}
